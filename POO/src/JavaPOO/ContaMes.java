@@ -3,9 +3,9 @@ package JavaPOO;
 public class ContaMes {
 
 	public static void main(String[] args) {
-        	
-		ContaMes janeiro = new ContaMes();
-		ContaMes fevereiro = new ContaMes();
+        
+		ContasDoMes janeiro = new ContasDoMes();
+		ContasDoMes fevereiro = new ContasDoMes();
 		
 		janeiro.agua = 1000;
 		janeiro.luz = 100;

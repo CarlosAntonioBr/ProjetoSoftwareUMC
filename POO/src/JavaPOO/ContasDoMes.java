@@ -2,9 +2,10 @@ package JavaPOO;
 
 public class ContasDoMes {
 
-		double agua;
-		double alimentacao;
-		double luz;
+	    	
+		public double agua;
+		public double alimentacao;
+		public double luz;
 		
 		public double somaGasto(){
 			
